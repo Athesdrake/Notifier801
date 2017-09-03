@@ -1,0 +1,22 @@
+{
+	"manifest_version": 2,
+
+	"name": "Notifier801",
+	"description": "Send a notification when you receive a message on the forum.",
+	"author": "Athesdrake",
+	"version": "1.0",
+
+	"icons":{
+		"64" : "64.png",
+		"128": "128.png",
+		"256": "256.png"
+	},
+	"background": {
+		"scripts" : ["background.js"]
+	},
+	"permissions": [
+		"http://atelier801.com/*",
+		"notifications",
+		"background"
+	]
+}
