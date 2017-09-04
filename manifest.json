@@ -4,7 +4,7 @@
 	"name": "Notifier801",
 	"description": "Send a notification when you receive a message on the forum.",
 	"author": "Athesdrake",
-	"version": "1.0",
+	"version": "1.2",
 
 	"icons":{
 		"64" : "64.png",
